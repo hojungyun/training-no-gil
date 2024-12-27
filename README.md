@@ -17,7 +17,7 @@ ls -l ~/.pyenv/versions
 ```shell
 cd <project_dir>
 poetry install
-poetry run python cpu_usage.py
+poetry run python cpu_mon.py
 ```
 
 ### From terminal 2:
